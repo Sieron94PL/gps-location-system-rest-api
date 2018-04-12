@@ -1,0 +1,14 @@
+pl\dmcs\gpslocationsystem\model\User.class
+pl\dmcs\gpslocationsystem\security\SecurityConfiguration.class
+pl\dmcs\gpslocationsystem\dao\UserDAO.class
+pl\dmcs\gpslocationsystem\config\ServletInitializer.class
+pl\dmcs\gpslocationsystem\controller\HomeController.class
+pl\dmcs\gpslocationsystem\security\MySecurityWebApplicationInitializer.class
+pl\dmcs\gpslocationsystem\dao\UserDAOImpl$1.class
+pl\dmcs\gpslocationsystem\model\Coordinates.class
+pl\dmcs\gpslocationsystem\model\Track.class
+pl\dmcs\gpslocationsystem\dao\UserDAOImpl.class
+pl\dmcs\gpslocationsystem\config\MyWebConfig.class
+pl\dmcs\gpslocationsystem\dao\UserDAOImpl$3.class
+pl\dmcs\gpslocationsystem\dao\UserDAOImpl$2.class
+pl\dmcs\gpslocationsystem\security\CustomBasicAuthenticationEntryPoint.class

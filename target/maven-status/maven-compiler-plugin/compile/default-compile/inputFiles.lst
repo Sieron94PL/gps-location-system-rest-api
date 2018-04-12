@@ -1,0 +1,11 @@
+D:\Programowanie\Spring\Projekty\GpsLocationSystem\src\main\java\pl\dmcs\gpslocationsystem\dao\UserDAOImpl.java
+D:\Programowanie\Spring\Projekty\GpsLocationSystem\src\main\java\pl\dmcs\gpslocationsystem\model\User.java
+D:\Programowanie\Spring\Projekty\GpsLocationSystem\src\main\java\pl\dmcs\gpslocationsystem\model\Coordinates.java
+D:\Programowanie\Spring\Projekty\GpsLocationSystem\src\main\java\pl\dmcs\gpslocationsystem\security\MySecurityWebApplicationInitializer.java
+D:\Programowanie\Spring\Projekty\GpsLocationSystem\src\main\java\pl\dmcs\gpslocationsystem\dao\UserDAO.java
+D:\Programowanie\Spring\Projekty\GpsLocationSystem\src\main\java\pl\dmcs\gpslocationsystem\security\CustomBasicAuthenticationEntryPoint.java
+D:\Programowanie\Spring\Projekty\GpsLocationSystem\src\main\java\pl\dmcs\gpslocationsystem\security\SecurityConfiguration.java
+D:\Programowanie\Spring\Projekty\GpsLocationSystem\src\main\java\pl\dmcs\gpslocationsystem\config\MyWebConfig.java
+D:\Programowanie\Spring\Projekty\GpsLocationSystem\src\main\java\pl\dmcs\gpslocationsystem\controller\HomeController.java
+D:\Programowanie\Spring\Projekty\GpsLocationSystem\src\main\java\pl\dmcs\gpslocationsystem\config\ServletInitializer.java
+D:\Programowanie\Spring\Projekty\GpsLocationSystem\src\main\java\pl\dmcs\gpslocationsystem\model\Track.java
